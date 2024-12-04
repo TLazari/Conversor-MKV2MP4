@@ -38,7 +38,7 @@ Certifique-se de que o **FFmpeg** está instalado e configurado no PATH do siste
 1. **Clone ou baixe o repositório:**
    ```bash
    git clone https://github.com/TLazari/Conversor-MKV2MP4
-   cd conversor-mkv-mp4
+   cd Conversor-MKV2MP4
    ```
 
 2. **Edite as pastas de entrada e saída no script:**
@@ -58,7 +58,7 @@ Certifique-se de que o **FFmpeg** está instalado e configurado no PATH do siste
 
 ## 📂 Estrutura do Projeto
 ```
-📁 conversor-mkv-mp4
+📁 Conversor-MKV2MP4
 ├── converter.py   # Script principal
 ├── README.md      # Documentação
 ```
